@@ -1,0 +1,2 @@
+[27/Nov/2020 04:34:04] DEBUG [polls.views:30] vote().question_id: 1
+[27/Nov/2020 04:34:43] DEBUG [polls.views:30] vote().question_id: 1
